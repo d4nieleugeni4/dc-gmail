@@ -1,6 +1,6 @@
 module.exports = {
     // IDs do servidor
-    guildId: "ID_DO_SEU_SERVIDOR",
+    guildId: "1541813763521519627",
     
     // Cargos
     cargoAtendente: "ID_CARGO_ATENDENTE",
@@ -10,15 +10,15 @@ module.exports = {
     cargoDono: "ID_CARGO_DONO",
     
     // Categorias
-    categoriaIntro: "ID_CATEGORIA_INTRO",
-    categoriaAtendimento: "ID_CATEGORIA_ATENDIMENTO",
-    categoriaSobre: "ID_CATEGORIA_SOBRE",
+    categoriaIntro: "1541814950207692930",
+    categoriaAtendimento: "1541814349809590386",
+    categoriaSobre: "1541814868179423353",
     
     // Canais
-    canalBoasVindas: "ID_CANAL_BOAS_VINDAS",
-    canalInstrucoes: "ID_CANAL_INSTRUCOES",
-    canalVenda: "ID_CANAL_VENDA_SEUS_GMAILS",
-    canalExplicacoes: "ID_CANAL_EXPLICACOES",
+    canalBoasVindas: "1541815073281151057",
+    canalInstrucoes: "1541815187848302733",
+    canalVenda: "1541814440276533438",
+    canalExplicacoes: "1541815775260708944",
     canalAtendimento: "ID_CANAL_ATENDIMENTO",
     
     prefix: "."
