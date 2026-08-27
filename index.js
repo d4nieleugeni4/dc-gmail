@@ -40,6 +40,7 @@ client.once('ready', () => {
     console.log(`🎯 Bot pronto!`);
 });
 
+// Comandos
 client.on('messageCreate', async (message) => {
     if (message.author.bot) return;
     if (!message.content.startsWith(config.prefix)) return;
@@ -56,4 +57,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login('SEU_TOKEN_AQUI');
+client.login('SEU_TOKEN_AQUI'); // <--- COLOCA O TOKEN DO SEU BOT AQUI
