@@ -1,13 +1,9 @@
 module.exports = {
-    // IDs do servidor
+    // ID do servidor
     guildId: "1541813763521519627",
     
-    // Cargos
-    cargoAtendente: "ID_CARGO_ATENDENTE",
-    cargoMembro: "ID_CARGO_MEMBRO",
-    cargoVeterano: "ID_CARGO_VETERANO",
-    cargoADM: "ID_CARGO_ADM",
-    cargoDono: "ID_CARGO_DONO",
+    // Único cargo (ADM)
+    cargoADM: "ID_CARGO_ADM", // <--- COLOCA O ID DO CARGO ADM AQUI
     
     // Categorias
     categoriaIntro: "1541814950207692930",
@@ -19,7 +15,7 @@ module.exports = {
     canalInstrucoes: "1541815187848302733",
     canalVenda: "1541814440276533438",
     canalExplicacoes: "1541815775260708944",
-    canalAtendimento: "ID_CANAL_ATENDIMENTO",
+    canalAtendimento: "ID_CANAL_ATENDIMENTO", // <--- COLOCA O ID DO CANAL DE ATENDIMENTO AQUI
     
     prefix: "."
 };
